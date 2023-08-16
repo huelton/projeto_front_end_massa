@@ -31,6 +31,10 @@ header {
     border: none;
 }
 
+.sign-in button:hover{
+    cursor: pointer;
+}
+
 input[type="text"],
 input[type="email"],
 input[type="password"] {
